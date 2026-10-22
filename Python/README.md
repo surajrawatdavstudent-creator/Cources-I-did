@@ -1,25 +1,21 @@
 # Python — University of Michigan
 
-## About the course
+## Course overview
 
-This course covered the basics of Python programming.
+This course covered the basics of Python programming and common programming concepts used to write simple programs.
 
-## Why I took it
+## Main topics
 
-I want to use Python for programming, automation, data handling, and robotics projects.
-
-## What I learned
-
-- Python basics
 - Variables and data types
 - Conditions and loops
 - Functions
-- Common Python data structures
-- Writing basic programs
+- Lists and other common data structures
+- Basic program structure
+- Writing and testing simple Python programs
 
-## How I use this skill
+## Practical use
 
-I use Python for programming practice and plan to use it with my electronics and robotics projects for data handling and automation.
+I use Python for programming practice and plan to use it for data handling and automation in electronics and robotics projects.
 
 ## Certificate
 

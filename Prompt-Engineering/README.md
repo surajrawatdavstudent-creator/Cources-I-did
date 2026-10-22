@@ -1,34 +1,41 @@
 # Prompt Engineering — Vanderbilt University
 
-## Course overview
+## What is this course about?
 
-This course covered ways to write clear prompts and give useful instructions to AI tools. It focused on improving the quality of AI responses by providing the right context and details.
+This course covered ways to write clear prompts and give useful instructions to AI tools. It focused on providing the right context and details so that AI tools can give more useful responses.
 
 **Completed:** October 2026
 
-## Main topics
+## Why I needed this course
+
+I use AI tools for learning, research, and project planning. I wanted to understand how to give better instructions instead of writing vague prompts and then accepting whatever result I received.
+
+## What I learned
 
 - Writing clear prompts
 - Giving instructions and context
 - Adding useful details to a prompt
 - Improving prompts when results are not useful
 - Using prompts for research, learning, and problem solving
+- Checking AI output instead of accepting it without review
 
-## Practical use
+## How it helped me
 
-I use these methods when working with AI for research, learning technical topics, and planning projects. The course also helped me understand that AI output needs to be checked instead of accepted without review.
+The course helped me structure my questions and instructions more clearly. This is useful when I am trying to understand a technical topic, break a project into smaller parts, or compare different approaches.
 
-## Use in technical projects
+It also made me more careful about checking AI-generated information instead of treating every response as correct.
 
-Prompt writing can help with tasks such as:
+## Where I use these skills
+
+I use prompt-writing methods for tasks such as:
 
 - Understanding components and technical topics
-- Breaking a project into smaller steps
+- Breaking projects into smaller steps
 - Finding possible problems
 - Comparing different approaches
 - Organising project information
 
-The actual project work, testing, and final decisions are still done separately from the AI tool.
+AI is used as a support tool. The actual project work, testing, and final decisions are done separately from the AI tool.
 
 ## Certificate
 

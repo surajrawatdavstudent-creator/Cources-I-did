@@ -1,30 +1,26 @@
 # Python — University of Michigan
 
-## What is this?
+## About the course
 
-A foundational Python programming course completed to strengthen my programming skills.
+This course covered the basics of Python programming.
 
-## Why did I learn this?
+## Why I took it
 
-Python is one of the main programming tools I want to use for automation, data handling, experimentation, and the software side of robotics and embedded projects.
+I want to use Python for programming, automation, data handling, and robotics projects.
 
 ## What I learned
 
-- Python programming fundamentals
+- Python basics
 - Variables and data types
 - Conditions and loops
 - Functions
-- Working with common Python structures
-- Writing and organizing basic programs
+- Common Python data structures
+- Writing basic programs
 
-## How will this help me?
+## How I use this skill
 
-Python gives me a software foundation that I can combine with electronics and robotics. I also plan to use it for sensor-data processing, automation, analysis, and supporting tools around my hardware projects.
+I use Python for programming practice and plan to use it with my electronics and robotics projects for data handling and automation.
 
-## Proof
+## Certificate
 
-[View certificate](2%3APython.pdf)
-
-## Practical application
-
-My Python knowledge is intended to be demonstrated through actual projects rather than through the certificate alone.
+[View certificate](Python-Certificate.pdf)

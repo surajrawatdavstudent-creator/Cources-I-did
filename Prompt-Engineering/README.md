@@ -1,38 +1,34 @@
 # Prompt Engineering — Vanderbilt University
 
-## About the course
+## Course overview
 
-This course focused on writing clear prompts and using AI tools effectively.
+This course covered ways to write clear prompts and give useful instructions to AI tools. It focused on improving the quality of AI responses by providing the right context and details.
 
 **Completed:** October 2026
 
-## Why I took it
-
-I wanted to improve how I write prompts so I can explain my questions and tasks more clearly when using AI tools.
-
-## What I learned
+## Main topics
 
 - Writing clear prompts
-- Giving useful instructions and context
-- Adding the right details to a prompt
-- Improving a prompt when the result is not useful
+- Giving instructions and context
+- Adding useful details to a prompt
+- Improving prompts when results are not useful
 - Using prompts for research, learning, and problem solving
 
-## How I use this skill
+## Practical use
 
-I use prompt writing when I research topics, learn new technical concepts, and plan projects. It helps me ask better questions and get more useful information.
+I use these methods when working with AI for research, learning technical topics, and planning projects. The course also helped me understand that AI output needs to be checked instead of accepted without review.
 
-## How it supports my projects
+## Use in technical projects
 
-For robotics and technical projects, I can use prompts to help with:
+Prompt writing can help with tasks such as:
 
-- Understanding components
-- Planning project steps
+- Understanding components and technical topics
+- Breaking a project into smaller steps
 - Finding possible problems
-- Learning new topics
-- Organising project ideas
+- Comparing different approaches
+- Organising project information
 
-I still check the information and do the practical work myself.
+The actual project work, testing, and final decisions are still done separately from the AI tool.
 
 ## Certificate
 

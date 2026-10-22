@@ -1,29 +1,26 @@
-# Arduino & Hardware Interfacing — University of California
+# Arduino Interfacing — University of California
 
-## What is this?
+## About the course
 
-A course focused on interfacing Arduino with electronic components and using a microcontroller to interact with hardware.
+This course focused on using Arduino with electronic components and hardware.
 
-## Why did I learn this?
+## Why I took it
 
-I am interested in robotics, embedded systems, and mechatronics, so understanding how software communicates with physical components is one of the foundations I need.
+I am interested in robotics, embedded systems, and mechatronics. Arduino helped me understand how software can control and read physical hardware.
 
 ## What I learned
 
-- Arduino fundamentals
-- Microcontroller-based hardware interfacing
+- Arduino basics
 - Working with sensors and electronic components
-- Reading inputs and controlling outputs
-- Connecting software logic with physical hardware
+- Reading inputs
+- Controlling outputs
+- Basic hardware interfacing
+- Connecting program logic with hardware
 
-## How will this help me?
+## How I use this skill
 
-This forms part of my embedded-systems foundation and supports my goal of building increasingly complex robotics and automation projects.
+I use Arduino in my electronics and embedded systems projects. I have used sensors and Arduino in monitoring and security projects.
 
-## Proof
+## Certificate
 
-[View certificate](3%3AInterfacing%20with%20Arduino.pdf)
-
-## Practical application
-
-I have applied Arduino concepts in my hardware projects, including sensor-based monitoring and security/monitoring systems. Future projects will build on this foundation with ESP32, data logging, and robotics.
+[View certificate](Arduino-Interfacing-Certificate.pdf)

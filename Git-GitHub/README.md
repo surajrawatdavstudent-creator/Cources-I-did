@@ -1,14 +1,10 @@
 # Git & GitHub — Google
 
-## About the course
+## Course overview
 
-This course covered the basics of Git and GitHub and how they are used to manage code and projects.
+This course introduced the basics of Git and GitHub for managing code and project files. It covered version control and common Git workflows.
 
-## Why I took it
-
-I wanted to learn how to save my work, track changes, and manage my projects on GitHub.
-
-## What I learned
+## Main topics
 
 - Git basics
 - Repositories and commits
@@ -16,11 +12,11 @@ I wanted to learn how to save my work, track changes, and manage my projects on 
 - Branches
 - Version control
 - Working with GitHub repositories
-- Basic project workflow
+- Basic Git workflow
 
-## How I use this skill
+## Practical use
 
-I use GitHub to store my code, document projects, and keep track of my work.
+I use GitHub to store project code, update files, and keep a record of changes. Git also helps me manage different versions of my work while building projects.
 
 ## Certificate
 

@@ -1,42 +1,40 @@
 # Prompt Engineering — Vanderbilt University
 
-## What is this course about?
-
-This course covered ways to write clear prompts and give useful instructions to AI tools. It focused on providing the right context and details so that AI tools can give more useful responses.
-
 **Completed:** October 2026
 
-## Why I needed this course
+## What is this course about?
 
-I use AI tools for learning, research, and project planning. I wanted to understand how to give better instructions instead of writing vague prompts and then accepting whatever result I received.
+This course covered how to write clearer prompts and give AI tools better instructions. It focused on explaining what you need, adding useful context, and improving a prompt when the first response is not helpful.
+
+## Why I took this course
+
+I often knew exactly what I wanted to ask an AI tool, but I struggled to turn that thought into a proper prompt. I would write something, get an answer that missed what I had in mind, and then have to keep rephrasing it. That was genuinely frustrating because I understood what I wanted to know, but I was not explaining it clearly enough. I took this course to learn how to write better prompts instead of repeatedly guessing what wording might work.
 
 ## What I learned
 
-- Writing clear prompts
-- Giving instructions and context
-- Adding useful details to a prompt
-- Improving prompts when results are not useful
-- Using prompts for research, learning, and problem solving
-- Checking AI output instead of accepting it without review
+- Writing clear instructions
+- Giving the AI tool enough context
+- Adding details and constraints to a prompt
+- Being specific about the kind of answer I need
+- Improving prompts when the result is not useful
+- Reviewing AI-generated information instead of assuming it is correct
 
 ## How it helped me
 
-The course helped me structure my questions and instructions more clearly. This is useful when I am trying to understand a technical topic, break a project into smaller parts, or compare different approaches.
+I now try to explain the goal, context, and type of answer I need instead of asking a vague question. That is useful when I am learning about an electronic component, planning a project, or trying to understand a technical topic.
 
-It also made me more careful about checking AI-generated information instead of treating every response as correct.
+It does not make every AI response correct, so I still check information and test suggestions rather than accepting them without review.
 
 ## Where I use these skills
 
-I use prompt-writing methods for tasks such as:
+I use prompt-writing methods when I:
+- Need help understanding a technical topic
+- Break a project into smaller steps
+- Compare different approaches
+- Organise research or project notes
 
-- Understanding components and technical topics
-- Breaking projects into smaller steps
-- Finding possible problems
-- Comparing different approaches
-- Organising project information
-
-AI is used as a support tool. The actual project work, testing, and final decisions are done separately from the AI tool.
+AI can help me think through a problem, but the project work, testing, and final decisions still need my own effort.
 
 ## Certificate
 
-[View certificate](Prompt-Engineering-Certificate.pdf)
+[Open certificate PDF](https://raw.githubusercontent.com/surajrawatdavstudent-creator/Cources-I-did/main/Prompt-Engineering/Prompt-Engineering-Certificate.pdf)

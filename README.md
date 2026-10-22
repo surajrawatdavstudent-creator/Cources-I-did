@@ -1,40 +1,29 @@
-# Skills & Learning Proof
+# Courses I Did
 
-This repository is a record of the technical skills I have deliberately developed during my journey toward **Robotics, Mechatronics, Automation, and Embedded Systems**.
+This repository contains the courses I have completed and the certificates for them.
 
-I am not using this repository simply to collect certificates. Each credential is documented with the reason I chose to learn the skill, what I actually learned, and how I expect to apply it.
+I added these courses to improve skills that I can use in programming, robotics, electronics, and technical projects.
 
-## My approach
+## Courses
 
-**Need a skill → Learn it → Complete practical work → Keep evidence → Apply it in projects**
-
-A certificate is included as **proof of completed learning**, while projects and practical work are the stronger evidence that I can use the skill.
-
-## Skills & Proof
-
-| Skill | Provider | Why I learned it | Evidence |
+| Course | Provider | Main skill | Certificate |
 |---|---|---|---|
-| [Prompt Engineering](Prompt-Engineering.md) | Vanderbilt University | To understand structured interaction with AI tools and improve practical AI-assisted work | [Certificate](1%3APromptEngineering.pdf) |
-| [Python](Python.md) | University of Michigan | To build programming and automation skills for projects | [Certificate](2%3APython.pdf) |
-| [Arduino / Embedded Systems](Arduino-Interfacing.md) | University of California | To strengthen my understanding of microcontrollers and hardware-software interfacing | [Certificate](3%3AInterfacing%20with%20Arduino.pdf) |
-| [Git & GitHub](Git-GitHub.md) | Google | To properly manage, document and version-control my technical projects | [Certificate](4%3AGit%20nd%20github.pdf) |
+| [Prompt Engineering](Prompt-Engineering/) | Vanderbilt University | Prompt writing and AI tools | [View certificate](Prompt-Engineering/Prompt-Engineering-Certificate.pdf) |
+| [Python](Python/) | University of Michigan | Python programming | [View certificate](Python/Python-Certificate.pdf) |
+| [Arduino Interfacing](Arduino-Interfacing/) | University of California | Arduino and hardware interfacing | [View certificate](Arduino-Interfacing/Arduino-Interfacing-Certificate.pdf) |
+| [Git & GitHub](Git-GitHub/) | Google | Git and GitHub | [View certificate](Git-GitHub/Git-GitHub-Certificate.pdf) |
 
-## What I want this repository to show
+## What each folder contains
 
-I want someone viewing this repository to understand **why each skill exists in my portfolio**, rather than seeing a random list of certificates.
+Each course folder has:
 
-For every important skill, I document:
+- A short README with the main details of the course
+- The certificate as proof of completion
 
-- **What is it?**
-- **When did I complete it?**
-- **Why did I learn it?**
-- **What did I learn?**
-- **How will I use it?**
-- **Where can I eventually see it in my projects?**
-- **What is the proof?**
+## Why I keep this repository
+
+I use this repository to keep my course certificates and learning notes in one place. I also want to connect these skills with my projects and show how I use them in practice.
 
 ## Future updates
 
-As I learn more skills such as **Linux/Bash, SQL, Excel, Power BI, CAD, and additional embedded/robotics technologies**, I will add them here only when I have genuinely learned and can explain the skill.
-
-> **The goal is not to collect certificates. The goal is to build skills and keep reliable evidence of the learning behind them.**
+I will add more courses when I complete them and when they are useful for my technical skills and projects.

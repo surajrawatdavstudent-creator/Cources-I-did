@@ -1,30 +1,27 @@
 # Git & GitHub — Google
 
-## What is this?
+## About the course
 
-A course focused on the fundamentals of Git and GitHub for version control and collaborative software development.
+This course covered the basics of Git and GitHub and how they are used to manage code and projects.
 
-## Why did I learn this?
+## Why I took it
 
-I wanted to learn how to properly manage my code, track changes, document projects, and maintain a public engineering portfolio instead of keeping projects only on my computer.
+I wanted to learn how to save my work, track changes, and manage my projects on GitHub.
 
 ## What I learned
 
-- Git fundamentals
+- Git basics
 - Repositories and commits
-- Tracking and managing changes
-- Branching and version-control concepts
+- Tracking changes
+- Branches
+- Version control
 - Working with GitHub repositories
-- Basic collaborative development workflow
+- Basic project workflow
 
-## How will this help me?
+## How I use this skill
 
-Git and GitHub allow me to document my robotics, embedded, Python, and future engineering projects in a structured and reproducible way.
+I use GitHub to store my code, document projects, and keep track of my work.
 
-## Proof
+## Certificate
 
-[View certificate](4%3AGit%20nd%20github.pdf)
-
-## Practical application
-
-My GitHub repositories are the main practical application of this skill. I use them to document projects, code, development progress, and learning evidence.
+[View certificate](Git-GitHub-Certificate.pdf)

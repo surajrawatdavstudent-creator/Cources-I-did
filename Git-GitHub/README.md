@@ -2,11 +2,11 @@
 
 ## What is this course about?
 
-This course introduced Git and GitHub for managing code and project files. It covered version control and the basic workflow used to track changes in projects.
+This course introduced Git and GitHub, including version control and the basic workflow for tracking changes to project files.
 
-## Why I needed this course
+## Why I took this course
 
-I keep my programming and robotics projects on GitHub. I needed to understand how to manage project files properly, track changes, and keep different versions of my work organised.
+When I started putting my coding and Arduino projects on GitHub, I could upload files, but I did not fully understand how Git tracked changes. I wanted to learn what commits, branches, and version control actually do so I could manage my projects instead of treating GitHub only as file storage.
 
 ## What I learned
 
@@ -16,16 +16,16 @@ I keep my programming and robotics projects on GitHub. I needed to understand ho
 - Branches
 - Version control
 - Working with GitHub repositories
-- Basic Git workflow
+- The basic Git workflow
 
 ## How it helped me
 
-The course helped me understand what is happening when I commit, update, or organise files in a repository. It also made it easier for me to keep project work organised instead of treating GitHub only as a place to upload files.
+The course helped me understand the purpose behind committing changes and organising a repository. I can now use GitHub more deliberately to keep project code and documentation together and show how my work changes over time.
 
 ## Where I use these skills
 
-I use Git and GitHub for my programming, Arduino, and web projects. I use repositories to keep code, documentation, and project progress in one place.
+I use Git and GitHub for my Arduino, programming, and web projects. I also use README files to explain what a project does and keep its code and documentation organised.
 
 ## Certificate
 
-[View certificate](Git-GitHub-Certificate.pdf)
+[Open certificate PDF](https://raw.githubusercontent.com/surajrawatdavstudent-creator/Cources-I-did/main/Git-GitHub/Git-GitHub-Certificate.pdf)
